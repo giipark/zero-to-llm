@@ -17,16 +17,16 @@ All experiments are run on **Windows**, using **PyCharm** with **Jupyter Noteboo
 
 ## 📚 Chapters
 
-| Chapter       | Topic |
-|---------------|-------|
+| Chapter                    | Topic |
+|----------------------------|-------|
 | [Chapter1-1](./Chapter1-1) | Deep Learning Theory & NLP |
-| [Chapter1-2](./) | Deep Learning Theory & NLP |
-| [Chapter2](./)     | Principles and Mechanics of LLMs |
-| [Chapter3-1](./) | Using LLM Libraries |
-| [Chapter3-2](./) | Using LLM Libraries |
-| [Chapter4-1](./) | Cloud Deployment & Fine-tuning |
-| [Chapter4-2](./) | Cloud Deployment & Fine-tuning |
-| [Chapter4-3](./) | Cloud Deployment & Fine-tuning |
+| [Chapter1-2](./Chapter1-2) | Deep Learning Theory & NLP |
+| [Chapter2](./)             | Principles and Mechanics of LLMs |
+| [Chapter3-1](./)           | Using LLM Libraries |
+| [Chapter3-2](./)           | Using LLM Libraries |
+| [Chapter4-1](./)           | Cloud Deployment & Fine-tuning |
+| [Chapter4-2](./)           | Cloud Deployment & Fine-tuning |
+| [Chapter4-3](./)           | Cloud Deployment & Fine-tuning |
 
 ---
 
